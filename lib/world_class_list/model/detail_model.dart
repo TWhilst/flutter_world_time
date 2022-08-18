@@ -47,7 +47,7 @@ class DetailModel {
       DetailModel(country: "China", flag: _image[9],datetime: "", offset: "", city: "Shanghai", continent: "Asia", url: "Asia/Shanghai"),
       DetailModel(country: "Japan", flag: _image[10],datetime: "", offset: "", city: "Tokyo", continent: "Asia", url: "Asia/Tokyo"),
       DetailModel(country: "Russia", flag: _image[11],datetime: "", offset: "", city: "Anadyr", continent: "Asia", url: "Europe/Kaliningrad"),
-      DetailModel(country: "America", flag: _image[12],datetime: "", offset: "", city: "New York", continent: "America", url: "America/New_York"),
+      DetailModel(country: "America", flag: _image[12], datetime: "", offset: "", city: "New York", continent: "America", url: "America/New_York"),
     ];
     return dItems;
   }
